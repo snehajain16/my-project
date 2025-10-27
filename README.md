@@ -1,3 +1,2 @@
-# My Project
-This is my first project using Git and GitHub.
-This README was created on GitHub.
+## New Feature
+This is a new feature added in the feature-branch.
